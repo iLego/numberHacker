@@ -1,4 +1,4 @@
 numberHacker
 ============
 
-App quick find people from social networks. 
+App  finds people from social networks. 
